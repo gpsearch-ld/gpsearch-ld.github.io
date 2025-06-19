@@ -1,46 +1,38 @@
-LIFE DESTROYED LICENSE  
+LIFE DESTROYED LICENSE v1.0
 
-Version 1.0  
+Copyright (c) 2025 life destroyed (as ld.team)
 
-Copyright (c) 2025 Life Destroyed  
+1. PROHIBITED ACTIVITIES  
+   You are strictly prohibited from:  
+   - Using, copying, modifying, merging, publishing, distributing, sublicensing,  
+     and/or selling any resources under this license.  
+   - Creating derivative works.  
+   Exception: Explicit prior written permission from the resource owner.
 
-This license strictly prohibits any use, copying, distribution, modification, or interaction with the source code, documentation, or materials related to this project without explicit written permission from the copyright holder.  
+2. PERMISSION REQUIREMENTS  
+   Any permission must:  
+   - Be documented in writing (e.g., email, signed document).  
+   - Specify the authorized resource(s) and purpose of use.  
+   - Be publicly verifiable in the repository (e.g., in PERMISSIONS.md).
 
-#1. Restrictions
+3. AUTHORIZED GRANTERS  
+   Permission is valid ONLY if granted by:  
+   - "life destroyed",  
+   - "Fried Project",  
+   - "SGTR Team",  
+   - "ld.team".
 
-Prohibited Actions:
-  - Copy, download, fork, clone, modify, or use the code for any purpose (personal, commercial, educational, etc.).  
-  - Distribute the code, derivatives, or related works (including online publication or sharing with third parties).  
-  - Access the project’s APIs, data, or functionality.  
-  - Use the project’s name, logos, or branding without permission.  
+4. LICENSE NON-APPLICATION  
+   This license does not apply if:  
+   - The resource is explicitly dual-licensed under another license.  
+   - Permission exists outside the scope of this license.
 
-Exceptions:
-  No exceptions.  
+5. DISCLAIMER  
+   Resources are provided "AS IS", without warranties.  
+   The author/licensor is not liable for damages.
 
-#2. Copyright Notice
-All rights to the code belong solely to Life Destroyed. Violations of this license may result in legal action under applicable copyright laws.  
+6. TERMINATION  
+   Violation of terms automatically voids all permissions.
 
-#3. Disclaimer
-The code is provided “AS IS”. The author is not responsible for any losses, issues, or “life destruction” caused by the use or inability to use the code.  
-
-#4. Termination
-Any violation of this license automatically revokes your rights to interact with the project.  
-
-How to Apply This License:  
-
-Add a LICENSE file to your GitHub repository’s root.
-
-Include a clear notice in your README (example below).
-
-Example README Notice:  
-WARNING  
-This code is protected by the LIFE DESTROYED LICENSE.  
-Copying, using, or distributing this project is prohibited without written permission from Life Destroyed.  
-
-Important Notes:  
-
-Public visibility on GitHub does not grant usage rights.
-
-Consider legal tools (e.g., DMCA takedowns) to enforce violations.
-
-For fully private code, use GitHub’s private repositories or alternative platforms.
+7. MODIFICATIONS  
+   Only "life destroyed" or "ld.team" may publish revised versions.
